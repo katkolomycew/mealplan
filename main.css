@@ -222,9 +222,10 @@ p.food-title {
 footer {
   background-color: #067302;
   text-transform: lowercase;
-  font-style: italic;
   text-align: center;
+  font-style: italic;
   color: #D8E8F2;
+  margin-top: 10px;
   padding: 10px;
 }
 
